@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886360532416",
+    "project_id": "moodswing-810ce",
+    "storage_bucket": "moodswing-810ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886360532416:android:40dce0be225e84818a5425",
+        "android_client_info": {
+          "package_name": "com.example.moodswinger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886360532416-3h7c0if3bdg0nmjkrcaf3sk78l5g9fuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRbpTXoUZLEqRcYT0-QZLpUe7aNGTnGGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886360532416-3h7c0if3bdg0nmjkrcaf3sk78l5g9fuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
